@@ -1,2 +1,3 @@
 # html5_css3
-curso html5 e css3 
+Curso básico html5 e css3 da Innovation One com certificado.
+
