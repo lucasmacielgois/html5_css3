@@ -25,9 +25,15 @@ footer{
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-bottom: 30px;
+   
 }
 .img_padrao {
     width: 500px;
     border-radius: 10px;
    
+}
+nav {
+    background: rosybrown;
+    border-radius: 20px;
+    
 }
