@@ -1,3 +1,33 @@
 body {
     background: tan;
+    color: darkslategray;
+    margin-left: 200px;
+    margin-right: 200px; 
+}
+h1 {
+    color: rebeccapurple;
+    font-family: 'Courier New', Courier, monospace
+}
+h2 {
+    color: darkslateblue;
+    font-family: 'Courier New', Courier, monospace
+}
+
+header {
+    margin-top: 70px;
+}
+
+img {
+    margin-bottom: 20px;
+}
+footer{
+    font-size: 14px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 30px;
+}
+.img_padrao {
+    width: 500px;
+    border-radius: 10px;
+   
 }
